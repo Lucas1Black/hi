@@ -1,42 +1,40 @@
-# Olá, eu sou o Lucas Nogueira! 👋
+### 🚀 Aspiring Fullstack Developer | Java & Web Development
 
-### 🚀 Aspirante a Desenvolvedor Fullstack | Java & Web
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta de tecnologia. Minha trajetória combina a experiência prática em resolução de problemas no atendimento ao cliente com o estudo focado em engenharia de software. Atualmente, estou focado em construir aplicações robustas e escaláveis utilizando Java e ecossistemas Web modernos.
+I am an **Analysis and Systems Development** student and a technology enthusiast. My background combines practical experience in problem-solving through customer support with a focused study on software engineering. Currently, I am dedicated to building robust and scalable applications using Java and modern Web ecosystems.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies & Tools
 
-- **Linguagens:** Java, JavaScript (ES6+), PHP.
-- **Frontend:** HTML5, CSS3, Manipulação de DOM.
-- **Backend:** Spring Boot (Estudando), APIs REST.
-- **Ferramentas:** Git, GitHub, Pacote Office.
-
----
-
-### 📚 Formação e Certificados
-
-- 🎓 **Tecnologia em Análise e Desenvolvimento de Sistemas** - Anhanguera (Cursando)
-- 📜 **Profissão: TI do Zero ao Pro** - EBAC (Escola Britânica de Artes Criativas & Tecnologia)
-- ⚙️ **Técnico em Automação Industrial** - Adjetivo CETEP
+- **Languages:** Java, JavaScript (ES6+), PHP.
+- **Frontend:** HTML5, CSS3, DOM Manipulation.
+- **Backend:** Spring Boot (Learning), REST APIs.
+- **Tools:** Git, GitHub, Microsoft Office Suite.
 
 ---
 
-### 📁 Projetos em Destaque
+### 📚 Education & Certifications
 
-| Projeto | Descrição | Tecnologias |
+- 🎓 **B.S. in Analysis and Systems Development** - Anhanguera (In Progress)
+- 📜 **TI from Zero to Pro** - EBAC (British School of Creative Arts & Technology)
+- ⚙️ **Industrial Automation Technician** - Adjetivo CETEP
+
+---
+
+### 📁 Featured Projects
+
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Help Desk API](https://github.com/seu-usuario/helpdesk)** | Sistema de gestão de tickets baseado em vivência real de suporte. | Java, Spring Boot |
-| **[DashFinanças](https://github.com/seu-usuario/dash-financas)** | Dashboard financeiro responsivo com cálculos em tempo real. | JS, HTML, CSS |
-| **[MovieSearcher](https://github.com/seu-usuario/movie-search)** | Integração com API externa para busca de filmes. | JS, Async/Await |
+| **[Help Desk API](https://github.com/your-username/helpdesk)** | Ticket management system inspired by real-world support experience. | Java, Spring Boot |
+| **[DashFinance](https://github.com/your-username/dash-finances)** | Responsive financial dashboard with real-time balance calculations. | JS, HTML, CSS |
+| **[MovieSearcher](https://github.com/your-username/movie-search)** | Web application consuming external APIs for movie data. | JS, Async/Await |
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Connect with me:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 📧 [E-mail](mailto:lucasrodri402@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 [Email](mailto:lucasrodri402@gmail.com)
 
 ---
-*“Transformando problemas reais em soluções digitais eficientes.”*
+*"Turning real-world problems into efficient digital solutions."*
