@@ -1,3 +1,10 @@
+Excelente! Adicionei o seu link do LinkedIn no código do README. Também aproveitei para ajustar os outros campos de link (onde estava "your-username") para o padrão do seu usuário, facilitando para você.
+
+Aqui está o código atualizado em inglês para o seu README.md:
+
+Markdown
+# Hi there, I'm Lucas Nogueira! 👋
+
 ### 🚀 Aspiring Fullstack Developer | Java & Web Development
 
 I am an **Analysis and Systems Development** student and a technology enthusiast. My background combines practical experience in problem-solving through customer support with a focused study on software engineering. Currently, I am dedicated to building robust and scalable applications using Java and modern Web ecosystems.
@@ -25,15 +32,15 @@ I am an **Analysis and Systems Development** student and a technology enthusiast
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Help Desk API](https://github.com/your-username/helpdesk)** | Ticket management system inspired by real-world support experience. | Java, Spring Boot |
-| **[DashFinance](https://github.com/your-username/dash-finances)** | Responsive financial dashboard with real-time balance calculations. | JS, HTML, CSS |
-| **[MovieSearcher](https://github.com/your-username/movie-search)** | Web application consuming external APIs for movie data. | JS, Async/Await |
+| **[Help Desk API](https://github.com/lucasrodri402/helpdesk)** | Ticket management system inspired by real-world support experience. | Java, Spring Boot |
+| **[DashFinance](https://github.com/lucasrodri402/dash-finances)** | Responsive financial dashboard with real-time balance calculations. | JS, HTML, CSS |
+| **[MovieSearcher](https://github.com/lucasrodri402/movie-search)** | Web application consuming external APIs for movie data. | JS, Async/Await |
 
 ---
 
 ### 📫 Connect with me:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-nogueira-a642321a3/)
 - 📧 [Email](mailto:lucasrodri402@gmail.com)
 
 ---
