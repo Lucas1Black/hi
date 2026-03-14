@@ -33,7 +33,7 @@ I am an **Analysis and Systems Development** student and a technology enthusiast
 
 ### 📫 Connect with me:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-nogueira-a642321a3/)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/lucas-nogueira-a642321a3/])
 - 📧 [Email](mailto:lucasrodri402@gmail.com)
 
 ---
