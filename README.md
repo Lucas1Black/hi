@@ -1,7 +1,3 @@
-Excelente! Adicionei o seu link do LinkedIn no código do README. Também aproveitei para ajustar os outros campos de link (onde estava "your-username") para o padrão do seu usuário, facilitando para você.
-
-Aqui está o código atualizado em inglês para o seu README.md:
-
 Markdown
 # Hi there, I'm Lucas Nogueira! 👋
 
