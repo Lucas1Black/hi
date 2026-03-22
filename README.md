@@ -1,5 +1,5 @@
 Markdown
-# Hi there, I'm Lucas Nogueira! 👋
+# Hi there, I'm Lucas! 👋
 
 ### 🚀 Aspiring Fullstack Developer | Java & Web Development
 
